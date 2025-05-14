@@ -1,0 +1,19 @@
+--- Simulation Cycle 1 ---
+Distance: 76.32 cm | Detected: None
+→ Moving forward...
+
+--- Simulation Cycle 2 ---
+Distance: 89.00 cm | Detected: wall
+→ Obstacle detected. Stopping.
+
+--- Simulation Cycle 3 ---
+Distance: 76.96 cm | Detected: person
+→ Moving forward...
+
+--- Simulation Cycle 4 ---
+Distance: 45.27 cm | Detected: person
+→ Moving forward...
+
+--- Simulation Cycle 5 ---
+Distance: 98.03 cm | Detected: wall
+→ Obstacle detected. Stopping.
